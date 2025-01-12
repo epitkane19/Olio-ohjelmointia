@@ -1,1 +1,1 @@
-# kurssirepo
+# Viikkotehtävä 1: Arvauspeli
